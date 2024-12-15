@@ -1,0 +1,13 @@
+
+name: ca_housing_price_prediction
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - shap
+  - scikit-learn
+  - xgboost
